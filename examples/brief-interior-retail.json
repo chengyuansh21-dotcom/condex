@@ -1,0 +1,21 @@
+{
+  "subject": "interior retail space rendering",
+  "view": "same interior perspective and spatial layout as the source image",
+  "user_intent": "优化为室内商业空间汇报图，增强材料、灯光和陈列品质，但保持原有空间结构和动线。",
+  "locale": "modern Chinese retail interior",
+  "preserve": [
+    "main circulation path",
+    "ceiling structure",
+    "wall and storefront openings",
+    "major furniture and display layout",
+    "camera angle"
+  ],
+  "enhance": [
+    "material tactility",
+    "ceiling and wall lighting hierarchy",
+    "clean reflections",
+    "furniture quality",
+    "believable customer scale",
+    "presentation-level sharpness"
+  ]
+}
