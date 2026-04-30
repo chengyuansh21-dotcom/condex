@@ -1,0 +1,21 @@
+{
+  "subject": "urban renewal streetscape rendering",
+  "view": "same street-level perspective as the source image",
+  "user_intent": "做成城市更新汇报图，保留原街区尺度和老建筑特征，优化公共空间、绿化、铺装和生活氛围。",
+  "locale": "Chinese old city neighborhood renewal context",
+  "preserve": [
+    "existing building height and age character",
+    "road alignment",
+    "sidewalk and storefront relationship",
+    "important existing trees",
+    "main facade proportions"
+  ],
+  "enhance": [
+    "cleaned facade texture",
+    "human-scale street furniture",
+    "restrained greenery",
+    "everyday pedestrian life",
+    "repaired paving",
+    "soft daylight and report-ready clarity"
+  ]
+}
