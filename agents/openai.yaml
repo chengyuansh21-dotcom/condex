@@ -1,0 +1,4 @@
+interface:
+  display_name: "ArchRender Optimizer"
+  short_description: "在 Codex/condx 中用 gpt-image-2 优化建筑效果图。"
+  default_prompt: "Use $archrender-optimizer to optimize an uploaded architectural rendering with gpt-image-2 into a presentation-ready image."
