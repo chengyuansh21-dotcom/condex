@@ -1,0 +1,20 @@
+{
+  "subject": "commercial street architectural rendering",
+  "view": "eye-level street perspective from the original source image",
+  "user_intent": "提升为高端商业街招商展示图，增强店铺氛围、材质质感和街道人气，但不要改变建筑立面设计。",
+  "locale": "contemporary Chinese commercial street context",
+  "preserve": [
+    "main facade rhythm",
+    "storefront bay positions",
+    "street width and sidewalk layout",
+    "original camera height and viewing angle"
+  ],
+  "enhance": [
+    "premium facade material realism",
+    "warm storefront lighting",
+    "clean paving texture",
+    "moderate pedestrian activity",
+    "subtle planting and street furniture",
+    "clear sky and polished presentation color grading"
+  ]
+}
