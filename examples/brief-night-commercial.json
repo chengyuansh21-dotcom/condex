@@ -1,0 +1,21 @@
+{
+  "subject": "commercial street daytime rendering to be converted into a night scene",
+  "view": "original source perspective and composition",
+  "user_intent": "改成夜景商业氛围，用于方案汇报。灯光要高级克制，不要霓虹过度，不要改变建筑造型。",
+  "locale": "Chinese urban retail district",
+  "preserve": [
+    "building massing",
+    "facade proportions",
+    "window and storefront positions",
+    "road and plaza geometry",
+    "original perspective"
+  ],
+  "enhance": [
+    "warm interior glow",
+    "controlled storefront lighting",
+    "subtle facade highlights",
+    "evening sky",
+    "balanced contrast",
+    "scale-appropriate people and light reflections"
+  ]
+}
